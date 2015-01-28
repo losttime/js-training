@@ -1,0 +1,28 @@
+- Basics
+  - variable assignment
+  - functions
+  - variable scope
+- DOM Manipulation
+  - load order
+  - event handlers
+  - element creation
+- Classes
+  - don't assign to global
+  - pseudo private
+- JavaScript-isms
+  - Callbacks
+  - Promises
+- Modules
+  - RequireJS
+  - CommonJS
+- Testing
+  - Mocha
+  - Karma
+- Build Tools
+  - Grunt
+  - Gulp
+- AngularJS
+  - Controllers
+  - Services
+  - Directives
+-
