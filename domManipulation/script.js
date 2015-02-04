@@ -1,4 +1,3 @@
-var triggerElement = document.querySelector('button');
-triggerElement.addEventListener('click', function(event) {
-	console.log('event', event);
-});
+// It's JS time!
+
+alert("Hello, World!");
