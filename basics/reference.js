@@ -40,6 +40,11 @@ logged = array;
 logged = array[0];
 
 
+array[2] = 'cranberry';
+array.push('dragonfruit');
+logged = array;
+
+
 var anotherArray = ['first', 2, true, ['inner', 'list'], word];
 logged = anotherArray;
 logged = anotherArray[3][1];
@@ -50,6 +55,10 @@ var object = {
 };
 logged = object;
 logged = object.property;
+
+
+object.property = 'updated value';
+logged = object;
 
 
 var anotherObject = {
