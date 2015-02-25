@@ -137,7 +137,7 @@ var foo = function() {
 	xhr.open('GET', 'http://api.randomuser.me/', true);
 	xhr.onload = function() {
 		console.log('called back');
-		// No all future work much be done here
+		// Now all future work much be done here
 		// If any other network requests happen, all work will be nested there . . .
 		// and deeper and depper into callback hell.
 	};
