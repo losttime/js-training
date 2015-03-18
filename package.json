@@ -1,0 +1,23 @@
+{
+  "name": "js-training",
+  "version": "0.1.0",
+  "description": "Sample training exercises for JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha",
+    "serve": "http-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/losttime/js-training.git"
+  },
+  "author": "David Cox <losttime.shuffle@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/losttime/js-training/issues"
+  },
+  "homepage": "https://github.com/losttime/js-training",
+  "dependencies": {
+    "http-server": "^0.7.5"
+  }
+}
